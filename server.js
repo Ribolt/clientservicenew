@@ -47,7 +47,7 @@ let express = require("express"),
     db = null,
     nodemailer = require("nodemailer");
 
-mongoose.connect("mongodb+srv://ricardobalc1973:qwerty123?AM?@cluster0.gwams8t.mongodb.net/text?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://fydiscoveries_db_user:Sevenevelen$711B@cluster0.zexl1vy.mongodb.net/text?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
